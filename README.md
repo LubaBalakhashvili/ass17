@@ -1,2 +1,1 @@
-# ass17
-დავალება 17
+# Assigments
